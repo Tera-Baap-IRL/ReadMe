@@ -1,2 +1,2 @@
-# ReadMe
-test-1
+a=int(input("enter a number "))
+print a,
